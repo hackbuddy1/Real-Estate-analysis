@@ -55,7 +55,8 @@ The project workflow is as follows:
 ## 📂 Project Structure
 
 The project is organized into a clean and scalable structure.
-```RealEstateAnalysis/
+```
+RealEstateAnalysis/
 ├── .gitignore
 ├── requirements.txt
 |
