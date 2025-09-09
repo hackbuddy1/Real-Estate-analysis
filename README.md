@@ -55,7 +55,7 @@ The project workflow is as follows:
 ## 📂 Project Structure
 
 The project is organized into a clean and scalable structure.
-RealEstateAnalysis/
+```RealEstateAnalysis/
 ├── .gitignore
 ├── requirements.txt
 |
@@ -76,8 +76,7 @@ RealEstateAnalysis/
 │ └── map_visualizer.py
 │
 └── venv/
-
-
+```
 ## 🚀 How to Run
 
 Follow these steps to set up and run the project on your local machine.
