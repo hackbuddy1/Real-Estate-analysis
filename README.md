@@ -4,8 +4,8 @@
 
 A comprehensive data analysis project that scrapes real estate data for Mumbai, cleans it, performs analysis to determine property value by neighborhood, and visualizes the results on an interactive map.
 
-[Total Area](images/TotalArea.png)
-[High Price](images/HighPrice.png)
+![Total Area](./images/TotalArea.png)
+![High Price](./images/HighPrice.png)
 
 ---
 
