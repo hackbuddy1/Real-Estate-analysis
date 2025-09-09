@@ -125,4 +125,4 @@ Build a simple web interface (e.g., using Streamlit or Flask) to display the map
 Apply machine learning models to predict property prices based on features like location, area, and BHK.
 
 ## 📄 License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License.
