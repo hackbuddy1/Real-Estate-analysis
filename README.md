@@ -57,7 +57,6 @@ The project workflow is as follows:
 The project is organized into a clean and scalable structure.
 RealEstateAnalysis/
 ├── .gitignore
-├── README.md
 ├── requirements.txt
 |
 ├── data/
@@ -77,9 +76,7 @@ RealEstateAnalysis/
 │ └── map_visualizer.py
 │
 └── venv/
-code
-Code
----
+
 
 ## 🚀 How to Run
 
