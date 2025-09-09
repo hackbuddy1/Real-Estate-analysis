@@ -119,10 +119,10 @@ python src/map_visualizer.py
 ```
 After running, the cleaned files will be in data/processed/ and the final map will be in the output/ folder.
 
-💡 Future Improvements
+## 💡 Future Improvements
 Integrate more data sources to enrich the analysis.
 Build a simple web interface (e.g., using Streamlit or Flask) to display the map and insights.
 Apply machine learning models to predict property prices based on features like location, area, and BHK.
 
-📄 License
+## 📄 License
 This project is licensed under the MIT License. See the LICENSE file for details.
